@@ -8,6 +8,20 @@ It simulates key restaurant operations including menu viewing, table allocation,
 
 The project was inspired by my interest in food business operations and my experience building Chef Bam, where I saw how important organised systems are behind the scenes of a food business.
 
+## Screenshots
+
+### Main Menu
+![Main Menu](restaurant-main-menu.png)
+
+### Food Menu
+![Food Menu](restaurant-food-menu.png)
+
+### Order Review
+![Order Review](restaurant-order-review.png)
+
+### Final Bill
+![Final Bill](restaurant-final-bill.png)
+
 ## Features
 
 - Menu display with item categories and prices
