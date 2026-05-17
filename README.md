@@ -14,7 +14,7 @@ The project was inspired by my interest in food business operations and my exper
 ![Main Menu](restaurant-main-menu.png)
 
 ### Food Menu
-![Food Menu](restaurant-food-menu.png)
+![Food Menu](restaurant-menu-display.png)
 
 ### Order Review
 ![Order Review](restaurant-order-review.png)
